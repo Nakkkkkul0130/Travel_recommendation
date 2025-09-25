@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f8ff;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    background: #207ca7;
+}
+nav ul li {
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+nav ul li a:hover {
+    background: #17527d;
+}
+main {
+    padding: 20px;
+}
+#recommendation button {
+    margin: 10px;
+}
+#destination-display img {
+    width: 200px;
+    margin: 10px;
+}
