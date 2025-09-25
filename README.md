@@ -6,10 +6,10 @@ This is a travel recommendation website built using JavaScript, HTML, CSS.
 - Three main pages and navigation.
 
 ## Public GitHub Repo
-https://github.com/yourusername/travel-recommendation
+https://github.com/Nakkkkkul0130/Travel-recommendation
 
 ## GitHub Pages URL
-https://yourusername.github.io/travel-recommendation/
+https://Nakkkkkul0130/Travel-recommendation/
 
 ## How to use
 Clone/download the repo, open `index.html`.
